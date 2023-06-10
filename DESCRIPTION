@@ -1,0 +1,11 @@
+Package: pav23
+Type: Package
+Title: Perimeter Area and Volume
+Version: 0.1.0
+Author: Rohmatul Fajriyah
+Maintainer: Rohmatul Fajriyah <966110101@uii.ac.id>
+Description: This package provides functions to compute the perimeter, area and volume.
+License: `use_gpl3_license()`
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
